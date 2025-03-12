@@ -7,7 +7,7 @@ Don't ask why, it just became necessary before I lost my mind with Bash inconcis
 ## Installing
 
 ```
-go install github.com:cedrus-and-thuja/thresher/cmd/thresher@v1
+go install github.com/cedrus-and-thuja/thresher/cmd/thresher
 ```
 
 ## Usage
