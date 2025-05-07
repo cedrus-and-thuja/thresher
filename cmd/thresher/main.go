@@ -31,7 +31,7 @@ func main() {
 		}
 		numValue = float64(iNumValue)
 	}
-	if numValue > numThreshold {
+	if numValue >= numThreshold {
 		fmt.Printf("value %.2f is greater than threshold %.2f\n", numValue, numThreshold)
 		os.Exit(0)
 	} else {
